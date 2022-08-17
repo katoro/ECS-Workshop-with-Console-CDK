@@ -1,21 +1,11 @@
 # Welcome!
 
-## Welcome to MyAPI
+안녕하세요. AWS 워크샵에 오신 것을 환영합니다.
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+이번 워크샵에서는 AWS 클라우드의 ECS를 통해 컨테이너를 실행해볼 것입니다.&#x20;
 
-## Want to jump right in?
+첫번째는 AWS 콘솔을 통해 직접 ECS를 구축해 봅니다.
 
-Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
+두번째는 동일한 작업을 미리 구성된 CDK를 통해 구축해 봅니다.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-## Want to deep dive?
-
-Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+동일한 워크로드를 두가지 방법을 통해 수행하여 ECS와 컨테이너에 대한 이해도를 높이고자 합니다.
