@@ -1,7 +1,10 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [Quick Start](quick-start.md)
+
+## Setup
+
+* [준비하기](setup/undefined.md)
 
 ## with console
 
