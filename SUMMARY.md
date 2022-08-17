@@ -17,4 +17,4 @@
 
 ## with CDK
 
-* [Page 1](with-cdk/page-1.md)
+* [CDK를 통해 ECS 실습해보기](with-cdk/cdk-ecs.md)
