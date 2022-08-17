@@ -12,7 +12,7 @@ ECS에서 사용할 컨테이너 이미지를 만들어 봅니다. 만들어진 
 cd ~/environment/ecs-ec2-cdk/app
 ```
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 * 아래 명령어를 수행합니다.&#x20;
 

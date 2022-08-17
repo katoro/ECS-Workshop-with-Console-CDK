@@ -2,13 +2,15 @@
 
 ## 개요
 
-ECS 실습을 위한 권한들을 설정합니다.
+ECS 실습을 위한 IAM 역할 및 정을 생합니다.
 
 ## 실습
 
 * 서비스 검색창에 IAM을 검색한 뒤 IAM을 선택합니다.
 
 ![](<../.gitbook/assets/image (6).png>)
+
+### ECS Task 실행 관련 IAM Role 생
 
 * 좌측 탭에서 역할을 선택한 뒤, 우측에 역할 만들기를 클릭합니다.
 
@@ -35,7 +37,7 @@ ECS 실습을 위한 권한들을 설정합니다.
 
 * 권한 정책 검색창에서 AmazonECSTaskExecutionRolePolicy를 검색한 뒤 선택합니다.
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 * 역할 이름에 AmazonECSTaskExecutionRole 을 입력하고 역할 생성을 클릭합니다.&#x20;
 
@@ -44,6 +46,8 @@ ECS 실습을 위한 권한들을 설정합니다.
 * "AmazonECSTaskExecutionRole" 역할이 생성되었습니다.
 
 ![](<../.gitbook/assets/image (5).png>)
+
+### ECS Task 기본 IAM Role 생
 
 * 좌측 탭에서 역할을 선택한 뒤, 우측에 역할 만들기를 클릭합니다.
 
@@ -116,7 +120,7 @@ ECS 실습을 위한 권한들을 설정합니다.
 
 * "ECSDefaultTaskRole" 역할이 생성되었습니다
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 ## 결과
 
