@@ -1,6 +1,20 @@
 # ECR Container Image 생성
 
+## 개요
 
+ECS에서 사용할 컨테이너 이미지를 만들어 봅니다. 만들어진 컨테이너 이미지는 ECR에 등록되어집니다.
+
+## 실습
+
+* Cloud9 콘솔을 실행한 다음, 아래 명령어를 수행해서 해당 경로로 이동합니다.
+
+```
+cd ~/environment/ecs-ec2-cdk/app
+```
+
+![](<../.gitbook/assets/image (21).png>)
+
+* 아래 명령어를 수행합니다.&#x20;
 
 
 
@@ -10,7 +24,6 @@ REGION=$(aws configure get default.region)
 
 echo "ACCOUNT_ID: $ACCOUNT_ID"
 echo "REGION: $REGION"
-sleep 1
 
 docker build -t sample-rest-api .
 

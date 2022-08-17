@@ -8,7 +8,7 @@
 
 * 서비스 검색창에 Cloud9을 검색한 뒤 Cloud9를 선택합니다.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 * 미리 생성되어진 Cloud9 서비스가 보여집니다. Open IDE를 눌러봅시다
 
@@ -28,5 +28,5 @@ EventEngine을 통해 실습하지 않으시는 분이라면 미리 생성되어
 git clone https://github.com/ContainerOnAWS/ecs-ec2-cdk
 ```
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (2).png>)
 

@@ -116,7 +116,7 @@ ECS 실습을 위한 권한들을 설정합니다.
 
 * "ECSDefaultTaskRole" 역할이 생성되었습니다
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 ## 결과
 
