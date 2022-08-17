@@ -28,5 +28,5 @@ EventEngine을 통해 실습하지 않으시는 분이라면 미리 생성되어
 git clone https://github.com/ContainerOnAWS/ecs-ec2-cdk
 ```
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
