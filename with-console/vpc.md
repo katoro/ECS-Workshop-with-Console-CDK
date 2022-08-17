@@ -8,7 +8,7 @@ ECS 실습을 위한 VPC를 만듭니다. VPC에 대해 더 자세한 사항이 
 
 * 서비스 검색창에 VPC를 검색한 뒤 VPC를 선택합니다.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 * VPC 생성 버튼을 클릭합니다.
 

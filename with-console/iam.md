@@ -108,7 +108,7 @@ ECS 실습을 위한 권한들을 설정합니다.
 
 * 다시 권한 추가화면으로 돌아와서, ECSExec를 검색하여 선택합니. 검색되지 않으면 새로고침 아이콘을 클릭한 뒤 다시 검색합니다.&#x20;
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 * 역할 이름은 ECSDefaultTaskRole로 입력한 뒤 역할 생성을 클릭합니다.
 
