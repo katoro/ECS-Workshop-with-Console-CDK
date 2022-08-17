@@ -13,6 +13,7 @@
 * [ECR Container Image 생성](with-console/ecr-container-image.md)
 * [ECS Cluster 생성](with-console/ecs-cluster.md)
 * [ECS Service 생성](with-console/ecs-service.md)
+* [Resource 삭제](with-console/resource.md)
 
 ## with CDK
 
