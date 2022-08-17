@@ -12,9 +12,11 @@ ECS에서 사용할 컨테이너 이미지를 만들어 봅니다. 만들어진 
 cd ~/environment/ecs-ec2-cdk/app
 ```
 
-![](<../.gitbook/assets/image (4).png>)
+![](../.gitbook/assets/image.png)
 
 * 아래 명령어를 수행합니다.&#x20;
+
+
 
 ```
 ACCOUNT_ID=$(aws sts get-caller-identity --query Account --output text)
@@ -33,7 +35,3 @@ aws ecr create-repository --repository-name my-ecr-repo --image-scanning-configu
 
 docker push ${ACCOUNT_ID}.dkr.ecr.${REGION}.amazonaws.com/my-ecr-repo:latest
 ```
-
-{% hint style="info" %}
-Account와 Region 관련된 정보를 정한 다음, 도커 이미지를 빌드합니다. 이후 ECR 리포지토리를 생성한 뒤, 빌드된 이미지를 push하여 ECR 리포지토리에 올려두는 명령어들입니다.
-{% endhint %}
