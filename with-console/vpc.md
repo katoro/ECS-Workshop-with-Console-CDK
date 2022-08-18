@@ -14,7 +14,7 @@ ECS 실습을 위한 VPC를 만듭니다. VPC에 대해 더 자세한 사항이 
 
 ![](<../.gitbook/assets/image (21) (1).png>)
 
-* 생성할 리소스는 VPC등, 이름태그는 ecs-manual, CIDR블록은 10.100.0.0/16으로 입력합니다.
+* 생성할 리소스는 VPC등, 이름태그는 ecs-manual, CIDR블록은 10.200.0.0/16으로 입력합니다.
 
 ![](<../.gitbook/assets/image (17).png>)
 
