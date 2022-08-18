@@ -1,8 +1,12 @@
-# CDK를 통해 ECS 실습해보기
+---
+description: 기
+---
+
+# CDK 준비하기
 
 ## 개요
 
-CDK를 통해 ECS를 다뤄보는 실습입니다.
+CDK를 통해 ECS를 다뤄보기에 앞서, CDK 를 설치하고 사용을 준비합니다.
 
 ## 실습
 
@@ -24,6 +28,4 @@ cdk bootstrap aws://${ACCOUNT_ID}/${REGION}
 {% hint style="info" %}
 위의 명령어는 aws-cdk-lib 라이브러리를 설치 후 cdk 사용을 위해 계정정보를 기반으로 부트스트래핑 하는 명령어의 일련입니다.
 {% endhint %}
-
-* 아래 명령어를 통해 모두 수행하거나 하나씩 수행할 수도 있다.
 

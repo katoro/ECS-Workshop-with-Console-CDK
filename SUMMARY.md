@@ -17,4 +17,6 @@
 
 ## with CDK
 
-* [CDK를 통해 ECS 실습해보기](with-cdk/cdk-ecs.md)
+* [CDK 준비하기](with-cdk/cdk.md)
+* [VPC 생성](with-cdk/vpc.md)
+* [IAM 생성](with-cdk/iam.md)
