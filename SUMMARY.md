@@ -22,3 +22,4 @@
 * [ECS Cluster 생성](with-cdk/ecs-cluster.md)
 * [IAM 생성](with-cdk/iam.md)
 * [ECS Service 생성](with-cdk/ecs-service.md)
+* [Resource 삭제](with-cdk/resource.md)
