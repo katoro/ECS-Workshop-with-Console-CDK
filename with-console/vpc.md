@@ -16,7 +16,7 @@ ECS 실습을 위한 VPC를 만듭니다. VPC에 대해 더 자세한 사항이 
 
 * 생성할 리소스는 VPC등, 이름태그는 ecs-manual, CIDR블록은 10.200.0.0/16으로 입력합니다.
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (37).png>)
 
 * 가용영역수 3개, 퍼블릭/프라이빗 서브넷 각 3개, NAT 게이트웨이는 AZ당 1개, VPC 엔드포인트는 없음을 선택합니다.
 
