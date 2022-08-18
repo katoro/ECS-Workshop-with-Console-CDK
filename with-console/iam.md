@@ -10,7 +10,7 @@ ECS 실습을 위한 IAM 역할 및 정을 생합니다.
 
 ![](<../.gitbook/assets/image (6) (1).png>)
 
-### ECS Task 실행 관련 IAM Role 생
+### ECS Task 실행 관련 IAM Role 생성
 
 * 좌측 탭에서 역할을 선택한 뒤, 우측에 역할 만들기를 클릭합니다.
 
