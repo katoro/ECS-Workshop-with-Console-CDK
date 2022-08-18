@@ -15,7 +15,7 @@ cdk deploy
 
 * 아래와 같이 CDK에 의해서 CloudFormation 작업이 수행됩니다.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (3).png>)
 
 ## 결과
 

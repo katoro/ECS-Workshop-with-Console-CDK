@@ -46,6 +46,6 @@ Account와 Region 관련된 정보를 정한 다음, 도커 이미지를 빌드�
 
 ![](<../.gitbook/assets/image (6).png>)
 
-* 아래와 같은 이미지가 보여집니다.
+* 아래와 같은 이미지가 보여집니다. 이후 실습에서 이미지 URI를 사용합니다. 값을 복사하여 둡니다.
 
 ![](<../.gitbook/assets/image (5).png>)
