@@ -30,7 +30,7 @@ ECS 실습을 위한 VPC를 만듭니다. VPC에 대해 더 자세한 사항이 
 
 * VPC가 다음과 같이 생성됩니다.
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
 * 서브넷이 다음과 같이 생성됩니다.
 

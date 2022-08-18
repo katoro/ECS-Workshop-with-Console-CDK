@@ -12,3 +12,12 @@ ECS 실습을 위한 VPC를 만듭니다. VPC에 대해 더 자세한 사항이 
 cd ~/environment/ecs-ec2-cdk/ecs-ec2-cluster/
 cdk deploy
 ```
+
+* 아래와 같이 CDK에 의해서 CloudFormation 작업이 수행됩니다.
+
+![](<../.gitbook/assets/image (25).png>)
+
+*
+
+
+

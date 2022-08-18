@@ -20,11 +20,11 @@ ECS 서비스를 직접 배포합니다.
 
 * 입력한 값이 맞는지 확인 후 생성 버튼을 누릅니다.
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (21) (2).png>)
 
 * 새 태스크가 생성되었습니다. 하지만&#x20;
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (3).png>)
 
 * 클러스터 메뉴로 돌아가서 manual-ecs-ec2 클러스터를 선택합니다. 서비스탭에서 배포를 클릭합니다.
 
@@ -44,7 +44,7 @@ ECS 서비스를 직접 배포합니다.
 
 * 로드밸런서를 새로 생성합니다. 배포버튼을 누르면 배포가 시작됩니다.
 
-![](<../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (25) (2).png>)
 
 *
 
