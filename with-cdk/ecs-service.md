@@ -1,4 +1,4 @@
-# IAM 생성
+# ECS Service 생성
 
 ## 개요
 
@@ -9,6 +9,6 @@ ECS 실습을 위한 IAMd을 만듭니다. VPC에 대해 더 자세한 사항이
 * Cloud9 콘솔에서 아래 명령어를 수행합니다.
 
 ```
-cd ~/environment/ecs-ec2-cdk/ecs-iam-role/
+cd ~/environment/ecs-ec2-cdk/ecs-restapi-service/
 cdk deploy
 ```
