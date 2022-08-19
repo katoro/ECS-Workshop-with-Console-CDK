@@ -2,7 +2,7 @@
 
 ## 개요
 
-ECS 실습을 위한 VPC를 만듭니다. VPC에 대해 더 자세한 사항이 알고 싶으면 [링크](https://docs.aws.amazon.com/ko\_kr/vpc/latest/userguide/what-is-amazon-vpc.html) 참고하세요.
+ECS 클러스터는 태스크 혹은 서비스를 관리하는 논리적 그룹입니다
 
 ## 실습
 
